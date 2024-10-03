@@ -1,3 +1,6 @@
+Here is the corrected format for the links in your README:
+
+---
 
 # INSAT Application
 
@@ -65,6 +68,14 @@ To get started with the project, follow these steps:
 5. **Access the Application**:  
    Once the web app is running, open your browser and navigate to `http://localhost:8000`.
 
+## Links
+
+- [Website](https://cholmes.github.io/cog-map/)
+- [GitHub](https://shorturl.at/Z60Hh)
+- [Video](https://youtu.be/4ZxNi14GsVI?si=uRCMhlYPYIvRRIC8)
+- [Model (Colab)](https://colab.research.google.com/drive/1ih_0VNazfsgijVLI-jnhKYSfAA11Yd-v)
+- [S3 Bucket](https://eu-north-1.console.aws.amazon.com/s3/buckets/algooptimatest?region=eu-north-1&bucketType=general&prefix=COG/&showversions=false)
+
 ## Usage
 
 1. Upload INSAT satellite data through the web interface.
@@ -79,5 +90,5 @@ Contributions are welcome! Please submit a pull request or open an issue for any
 
 This project is licensed under the MIT License.
 
----
+--- 
 
